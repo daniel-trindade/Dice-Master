@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.diceStyles{
+  display: block;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-size: 30pt;
+}
+
+.roll{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  font-size: 15pt;
+
+}
+
+article{
+  margin-bottom: 800px;
+}
+
+.dado-icon{
+  width: 80px;
+  display: block;
+  margin: auto;
+}
+
+.lastRoll{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  border: none;
+  background-color: #e0e4ce;
+  width: 230px;
+}
